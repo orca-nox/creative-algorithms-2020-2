@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<OSCInputGroup>
+  <oscMessage>/p5</oscMessage>
+  <numInputs>1</numInputs>
+  <groupName>Inputs</groupName>
+  <inputNames>
+    <string>p5-1</string>
+  </inputNames>
+</OSCInputGroup>
